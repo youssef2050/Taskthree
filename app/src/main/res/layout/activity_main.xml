@@ -73,5 +73,5 @@
         android:paddingTop="16dp"
         android:paddingBottom="16dp"
         android:text="Get started"
-        app:cornerRadius="10dp" />
+        app:cornerRadius="15dp" />
 </LinearLayout>
